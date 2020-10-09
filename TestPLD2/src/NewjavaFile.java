@@ -1,0 +1,7 @@
+/**
+ * NewjavaFile
+ */
+public class NewjavaFile {
+
+    
+}
